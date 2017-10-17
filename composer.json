@@ -6,7 +6,9 @@
             "email": "xueyezhishang@163.com"
         }
     ],
+    "type" : "project",
     "require": {
+        "php": ">= 5.3",
 	    "monolog/monolog": "1.*",
         "kasiss/tools": "^1.0",
         "smarty/smarty": "^3.1"
