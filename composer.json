@@ -1,0 +1,21 @@
+{
+    "name": "kasiss/trunk_yaf",
+    "authors": [
+        {
+            "name": "KasissLiu",
+            "email": "xueyezhishang@163.com"
+        }
+    ],
+    "require": {
+	    "monolog/monolog": "1.*",
+        "kasiss/tools": "^1.0",
+        "vlucas/phpdotenv": "^2.4",
+        "smarty/smarty": "^3.1"
+    },
+    "repositories": {
+      "packagist":{
+        "type":"composer",
+        "url":"https://packagist.phpcomposer.com"
+      }
+    }
+}
